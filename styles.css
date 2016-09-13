@@ -1,0 +1,54 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	text-align: center;
+	font-family: Muli;
+	color: white;
+}
+
+img.main {
+	height: 400px;
+	width: 400px;
+	margin-bottom: 10px;
+}
+
+footer img {
+	height: 50px;
+	width: 50px;
+	border: 4px dotted;
+}
+
+footer { 
+	padding-top:20px;
+}
+
+p {
+	font-family: Muli;
+}
+
+h1 { 
+	font-size: 46px;
+	font-family: Oswald;
+}
+
+h2 { 
+	font-size: 28px;
+	font-family: Oswald;
+}
+
+div#boxModel {
+	border: 5px solid green;
+	padding: 10px;
+	margin: 10px;
+}
+
+div.bio {
+	display: inline-block;
+	width: 30%;
+	text-align: left;
+}
+
+
+
